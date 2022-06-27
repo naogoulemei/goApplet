@@ -1,8 +1,8 @@
 package main
-
+// https://github.com/naogoulemei/goApplet/tree/master/boot
 import (
-	_ "github.com/naogoulemei/goApplet/boot"
-	_ "github.com/naogoulemei/goApplet/router"
+	_ "goApplet/boot"
+	_ "goApplet/router"
 	"github.com/gogf/gf/frame/g"
 )
 
@@ -12,4 +12,5 @@ import (
 // @schemes     http
 func main() {
 	g.Server().Run()
+
 }

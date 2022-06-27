@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/gogf/goApplet/app/api"
-	"github.com/gogf/goApplet/app/service"
+	"goApplet/app/api"
+	"goApplet/app/service"
 	"github.com/gogf/gf/frame/g"
 	"github.com/gogf/gf/net/ghttp"
 )

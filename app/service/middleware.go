@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/gogf/goApplet/app/model"
+    "goApplet/app/model"
 	"github.com/gogf/gf/net/ghttp"
 	"net/http"
 )

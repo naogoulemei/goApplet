@@ -5,7 +5,7 @@
 package dao
 
 import (
-	"github.com/gogf/goApplet/app/dao/internal"
+	"goApplet/app/dao/internal"
 )
 
 // userDao is the manager for logic model data accessing

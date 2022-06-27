@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/gogf/goApplet/app/model"
-	"github.com/gogf/goApplet/app/service"
-	"github.com/gogf/goApplet/library/response"
+	"goApplet/app/model"
+	"goApplet/app/service"
+	"goApplet/library/response"
 	"github.com/gogf/gf/net/ghttp"
 	"github.com/gogf/gf/util/gconv"
 )

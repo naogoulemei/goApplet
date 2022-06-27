@@ -1,10 +1,12 @@
 package boot
 
 import (
-	_ "github.com/gogf/goApplet/packed"
+	_ "goApplet/packed"
 
 	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/swagger"
+
+    "github.com/gogf/swagger"
+    //swagger "github.com/gogf/swagger/v2"
 )
 
 // 用于应用初始化。

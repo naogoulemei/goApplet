@@ -5,7 +5,7 @@
 package model
 
 import (
-	"github.com/gogf/goApplet/app/model/internal"
+	 "goApplet/app/model/internal"
 )
 
 // User is the golang structure for table user.
