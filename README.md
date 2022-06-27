@@ -1,5 +1,7 @@
 # goApplet
 
+以go-frame框架为基，搭建的一个基础的聊天工具
+
 This repo implements some demos using GoFrame.
 1. A simple websocket chat service.
 1. Basic API example for user SignUp/SignIn.
