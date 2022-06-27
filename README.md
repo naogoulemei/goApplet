@@ -1,4 +1,4 @@
-# GoFrame Demos
+# goApplet
 
 This repo implements some demos using GoFrame.
 1. A simple websocket chat service.
@@ -10,7 +10,7 @@ This repo implements some demos using GoFrame.
 ### 1. You need a go development environment setup before everything starts taking off.
 ### 2. Use `git clone` cloing the repo to your local folder.
 ```
-git clone https://github.com/gogf/goApplet
+git clone 
 ```
 
 ### 3. Import `document/sql/create.sql` to your database.
